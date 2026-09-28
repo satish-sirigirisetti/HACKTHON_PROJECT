@@ -1,0 +1,4 @@
+question_id,skill_name,prompt,question_type
+1,Python,How would you describe your current experience writing Python code?,self_report
+2,SQL,How comfortable are you querying relational databases?,self_report
+3,Statistics,How comfortable are you interpreting a statistical result?,self_report

@@ -1,0 +1,25 @@
+name,category,description
+Python,Programming,Write and maintain Python programs.
+SQL,Data,Query and model relational data.
+Statistics,Data,Apply statistical reasoning to data and experiments.
+Machine Learning,AI & ML,Develop and evaluate predictive models.
+Deep Learning,AI & ML,Build neural-network-based learning systems.
+Data Analysis,Data,Explore data and communicate evidence-based findings.
+Data Visualization,Data,Present data clearly with visual encodings.
+Algorithms,Computer Science,Design and analyze computational procedures.
+Data Structures,Computer Science,Select and implement structures for efficient data operations.
+APIs,Software,Design and integrate maintainable service interfaces.
+Backend Development,Software,Build server-side software and service logic.
+Databases,Data,Design and operate persistent data stores.
+Cloud Computing,Infrastructure,Deploy and operate software on cloud platforms.
+Linux,Infrastructure,Use and administer Linux-based systems.
+Docker,Infrastructure,Package applications into reproducible containers.
+Kubernetes,Infrastructure,Operate containerized workloads using orchestration.
+CI/CD,Infrastructure,Automate integration testing and software delivery.
+MLOps,AI & ML,Operationalize model development and deployment workflows.
+NLP,AI & ML,Process and analyze natural-language data.
+Computer Vision,AI & ML,Analyze images and video using computational methods.
+Cybersecurity,Security,Identify and reduce application and infrastructure security risks.
+Networking,Infrastructure,Understand communication protocols and network operations.
+Git,Software,Track and collaborate on source-code changes.
+Communication,Soft Skills,Explain ideas and collaborate with others.

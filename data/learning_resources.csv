@@ -1,0 +1,4 @@
+title,provider,resource_type,skill_name,url
+Python language tutorial,Python Software Foundation,documentation,Python,https://docs.python.org/3/tutorial/
+SQL tutorial,PostgreSQL Documentation,documentation,SQL,https://www.postgresql.org/docs/current/tutorial.html
+Git reference,Git Project,documentation,Git,https://git-scm.com/docs

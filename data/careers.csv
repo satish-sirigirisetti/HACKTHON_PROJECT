@@ -1,0 +1,15 @@
+name,category,description
+AI Engineer,AI & ML,Design and integrate AI capabilities into software products and workflows.
+ML Engineer,AI & ML,Build and maintain machine-learning data pipelines training workflows and deployed models.
+Data Scientist,Data,Use statistical analysis and experimentation to answer product and research questions.
+Data Analyst,Data,Transform and interpret structured data to support clear operational decisions.
+Software Engineer,Software,Design implement test and maintain software systems with a focus on reliability.
+Backend Engineer,Software,Build APIs services and data-access systems behind user-facing applications.
+Data Engineer,Data,Develop reliable data ingestion transformation and storage systems.
+MLOps Engineer,AI & ML,Build tooling and infrastructure for reproducible model deployment monitoring and lifecycle management.
+AI Infrastructure Engineer,AI & ML,Develop scalable compute serving and platform systems for AI workloads.
+NLP Engineer,AI & ML,Build and evaluate software that processes searches language and text-based information.
+Computer Vision Engineer,AI & ML,Develop systems that analyze and interpret image or video data.
+Cloud Engineer,Infrastructure,Build and operate secure cloud environments and platform services.
+DevOps Engineer,Infrastructure,Improve software delivery through automation observability and infrastructure practices.
+Cybersecurity Engineer,Security,Design and operate controls that protect applications networks and information.

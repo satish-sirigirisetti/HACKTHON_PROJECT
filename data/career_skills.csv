@@ -1,0 +1,67 @@
+career_name,skill_name,importance,required
+AI Engineer,Python,1,true
+AI Engineer,Machine Learning,1,true
+AI Engineer,APIs,0.8,true
+AI Engineer,Statistics,0.7,true
+AI Engineer,Cloud Computing,0.5,false
+ML Engineer,Python,1,true
+ML Engineer,Machine Learning,1,true
+ML Engineer,Statistics,0.8,true
+ML Engineer,SQL,0.7,true
+ML Engineer,MLOps,0.6,false
+Data Scientist,Python,1,true
+Data Scientist,Statistics,1,true
+Data Scientist,SQL,0.8,true
+Data Scientist,Data Analysis,0.8,true
+Data Scientist,Machine Learning,0.6,false
+Data Analyst,SQL,1,true
+Data Analyst,Data Analysis,1,true
+Data Analyst,Data Visualization,0.9,true
+Data Analyst,Statistics,0.7,true
+Software Engineer,Algorithms,1,true
+Software Engineer,Data Structures,1,true
+Software Engineer,Git,0.8,true
+Software Engineer,APIs,0.6,false
+Backend Engineer,APIs,1,true
+Backend Engineer,Backend Development,1,true
+Backend Engineer,Databases,0.9,true
+Backend Engineer,SQL,0.8,true
+Backend Engineer,Python,0.5,false
+Data Engineer,Python,1,true
+Data Engineer,SQL,1,true
+Data Engineer,Databases,0.9,true
+Data Engineer,Cloud Computing,0.6,false
+Data Engineer,Docker,0.5,false
+MLOps Engineer,Python,1,true
+MLOps Engineer,Docker,1,true
+MLOps Engineer,CI/CD,0.9,true
+MLOps Engineer,Cloud Computing,0.8,true
+MLOps Engineer,Machine Learning,0.7,true
+MLOps Engineer,Kubernetes,0.6,false
+AI Infrastructure Engineer,Python,1,true
+AI Infrastructure Engineer,Linux,1,true
+AI Infrastructure Engineer,Cloud Computing,1,true
+AI Infrastructure Engineer,Docker,0.8,true
+AI Infrastructure Engineer,Kubernetes,0.8,true
+AI Infrastructure Engineer,Networking,0.6,false
+NLP Engineer,Python,1,true
+NLP Engineer,NLP,1,true
+NLP Engineer,Machine Learning,0.8,true
+NLP Engineer,Statistics,0.6,false
+Computer Vision Engineer,Python,1,true
+Computer Vision Engineer,Computer Vision,1,true
+Computer Vision Engineer,Deep Learning,0.9,true
+Computer Vision Engineer,Machine Learning,0.8,true
+Cloud Engineer,Cloud Computing,1,true
+Cloud Engineer,Linux,0.9,true
+Cloud Engineer,Networking,0.8,true
+Cloud Engineer,Docker,0.6,false
+DevOps Engineer,Linux,1,true
+DevOps Engineer,CI/CD,1,true
+DevOps Engineer,Docker,0.9,true
+DevOps Engineer,Cloud Computing,0.8,true
+DevOps Engineer,Git,0.7,true
+Cybersecurity Engineer,Cybersecurity,1,true
+Cybersecurity Engineer,Networking,0.9,true
+Cybersecurity Engineer,Linux,0.7,true
+Cybersecurity Engineer,Python,0.5,false

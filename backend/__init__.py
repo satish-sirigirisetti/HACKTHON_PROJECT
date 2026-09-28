@@ -1,0 +1,1 @@
+"""CareerAI backend application package."""

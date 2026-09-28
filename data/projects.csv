@@ -1,0 +1,4 @@
+title,description,skills
+Learning-resource catalog API,Build a searchable API that organizes resources by topic and difficulty,"Python;APIs;SQL;Git"
+Dataset exploration report,Explore a public dataset and publish reproducible analysis and visualizations,"Python;Data Analysis;Statistics;Data Visualization"
+Containerized web service,Package a small web service and automate its test and release workflow,"Docker;CI/CD;Git;APIs"

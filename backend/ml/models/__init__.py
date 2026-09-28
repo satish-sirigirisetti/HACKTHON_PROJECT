@@ -1,0 +1,1 @@
+"""Local model-artifact namespace; generated artifacts are git-ignored."""
